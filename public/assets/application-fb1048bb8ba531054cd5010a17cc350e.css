@@ -1,3 +1,7 @@
+/* line 5, /home/ryan/Projects/Tattooing/Web/magistellus-arts/app/assets/stylesheets/landing.scss */
+h1 {
+  text-align: center;
+}
 /*
  * This is a manifest file that'll be compiled into application.css, which will include all the files
  * listed below.
@@ -10,9 +14,10 @@
  * defined in the other CSS/SCSS files in this directory. It is generally better to create a new
  * file per style scope.
  *
- *= require_tree .
- *= require_self
+
+
  */
+
 
 @font-face {
     font-family: "Argel_Font";
