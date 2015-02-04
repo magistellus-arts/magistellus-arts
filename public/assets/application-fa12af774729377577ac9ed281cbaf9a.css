@@ -1,0 +1,70 @@
+/* line 5, /home/ryan/Projects/Tattooing/Web/magistellus-arts/app/assets/stylesheets/landing.scss */
+h1 {
+  text-align: center;
+}
+/*
+ * This is a manifest file that'll be compiled into application.css, which will include all the files
+ * listed below.
+ *
+ * Any CSS and SCSS file within this directory, lib/assets/stylesheets, vendor/assets/stylesheets,
+ * or any plugin's vendor/assets/stylesheets directory can be referenced here using a relative path.
+ *
+ * You're free to add application-wide styles to this file and they'll appear at the bottom of the
+ * compiled file so the styles you add here take precedence over styles defined in any styles
+ * defined in the other CSS/SCSS files in this directory. It is generally better to create a new
+ * file per style scope.
+ *
+
+
+ */
+
+
+html {
+    background-image: image-url("background.jpg")
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.container {
+    min-width: 100px;
+    min-height: 750px;
+    position: relative;
+    margin: 5em 10em;
+    /*border: solid 6px purple;*/
+    border-radius: 15px;
+
+
+    background-color: rgba(100, 100, 175, 0.25);
+}
+
+#banner {
+    min-width: 100px;
+    width: 100%;
+    min-height: 100px;
+    position: relative;
+    border-radius: 15px 15px 0 0;
+
+    background-color: rgba(20, 10, 10, 0.75);
+}
+
+#navbar {
+    min-width: 100px;
+    width: 100%;
+    min-height: 35px;
+    position: relative;
+
+    background-color: rgba(45, 30, 60, 0.85);
+}
+
+#body {}
+
+#footer {
+    min-width: 100px;
+    width: 100%;
+    min-height: 30px;
+    position: absolute;
+    bottom: 0;
+    border-radius: 0 0 15px 15px;
+
+    background-color: rgba(20, 45, 45, 0.75);
+}

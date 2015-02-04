@@ -12,9 +12,6 @@
       <change type="DELETED" beforePath="$PROJECT_DIR$/public/assets/background_-4a9701b059c5164c6443e01b041263e2.jpg" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/public/assets/manifest-7406c97bd3608cabe71e65bec63f80e8.json" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/public/assets/manifest-7feb87ffa07a4f58229dba7a40b0320e.json" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/assets/stylesheets/application.css" afterPath="$PROJECT_DIR$/app/assets/stylesheets/application.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/views/layouts/application.html.erb" afterPath="$PROJECT_DIR$/app/views/layouts/application.html.erb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="magistellus-arts.iws" />
     <ignored path=".idea/workspace.xml" />
